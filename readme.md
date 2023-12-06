@@ -3,6 +3,9 @@
 ## 
 [![Stargazers over time](https://starchart.cc/ja9er/Gofreeproxy.svg)](https://starchart.cc/ja9er/Gofreeproxy)
 
+编译：
+Gofreeproxy\main> go build .\main.go
+
 配置好config.ini中关于fofa的参数\
 usage:
 >   -f	使用-f参数可读取当前目录下的proxy.txt，获取其中的代理使用\
